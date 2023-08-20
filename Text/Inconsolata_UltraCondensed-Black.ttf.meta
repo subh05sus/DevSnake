@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: b86c520a9772d914c8dd4cf447edb96d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Inconsolata UltraCondensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5806b2ddc4ff095468de3393bb25c9ee, type: 3}
+  - {fileID: 12800000, guid: 26468d1d00f1372448cc9f33e0bae264, type: 3}
+  - {fileID: 12800000, guid: 6803785a746015f4780e354f7a19dd0f, type: 3}
+  - {fileID: 12800000, guid: e2ada9a9984e17049a5f27de80570b4c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
